@@ -4,7 +4,7 @@
 
 Simple React on HTML File web themes build with new boostrap
 
-demo : mesinkasir.now.sh(https://mesinkasir.now.sh)
+demo : [mesinkasir.now.sh](https://mesinkasir.now.sh)
 
 documentation and live source code :
 
