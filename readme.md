@@ -47,3 +47,12 @@ How to install :
 + open localhost:3000 
 
 for edit content just edit on .js file
+
+
+demo : [mesinkasir.now.sh](https://mesinkasir.now.sh)
+
+documentation and live source code :
+
+[https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html](https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html)
+
+Video demo [play here](https://youtu.be/ZtOKL9QDVTY)
