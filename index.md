@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# React on HTML Web Themes template simple
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reacthtml/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### mesinkasir.now.sh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Simple React on HTML File web themes build with new boostrap
 
-### Markdown
+demo : [mesinkasir.now.sh](https://mesinkasir.now.sh)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+documentation and live source code :
 
-```markdown
-Syntax highlighted code block
+[https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html](https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html)
 
-# Header 1
-## Header 2
-### Header 3
+Video demo [play here](https://youtu.be/ZtOKL9QDVTY)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![react html website themes free download](https://1.bp.blogspot.com/-pETf5v9fkhI/YB98EjMx0uI/AAAAAAAAMvY/5-BjQiAOFOY9H2vdzHSsWQk2zFHz3Rt5gCLcBGAsYHQ/s1349/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25286%2529.png)
 
-[Link](url) and ![Image](src)
-```
+Home page
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![react html website themes free download](https://1.bp.blogspot.com/-hjbE-jzy74M/YB98ECvul2I/AAAAAAAAMvQ/Hqbij8mFrZ8z-p_xXB11zY1vN2SucymqACLcBGAsYHQ/s1361/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25285%2529.png)
 
-### Jekyll Themes
+Other page example
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reacthtml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![react html website themes free download](https://1.bp.blogspot.com/-6FPOOyLinLs/YB98EXQwudI/AAAAAAAAMvU/tHLbh0FNTHANHWH17gsyCUOj2A4yPDrIQCLcBGAsYHQ/s1361/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25284%2529.png)
 
-### Support or Contact
+Other page example
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![react html website themes free download](https://1.bp.blogspot.com/-ncpzQZIvNgo/YB98DBUG8wI/AAAAAAAAMvI/TyQx8HOpxgYYw46NGAyWi-xWsjpzn501ACLcBGAsYHQ/s1361/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25283%2529.png)
+
+Other page example
+
+![react html website themes free download](https://1.bp.blogspot.com/-DbGZO8aLBnQ/YB98C_ZyIdI/AAAAAAAAMvE/unpf_kxEaGIpqLSVdaFvqyzdSGfC7baqACLcBGAsYHQ/s1361/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25282%2529.png)
+
+Other page example
+
+![react html website themes free download](https://1.bp.blogspot.com/-LFzI6QtJ7-8/YB98D-oppSI/AAAAAAAAMvM/f-Z9-JnaMbIqAkg7hNn4cdvv1OIXG58SgCLcBGAsYHQ/s1361/free%2Breact%2Bhtml%2Btemplate%2Bdownload%2B%25281%2529.png)
+
+Other page example
+
+How to install :
+
++ Download this sourcecode
++ Download Node NPM 
++ npm install
++ npm start
++ open localhost:3000 
+
+for edit content just edit on .js file
+
+
+demo : [mesinkasir.now.sh](https://mesinkasir.now.sh)
+
+documentation and live source code :
+
+[https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html](https://www.hockeycomputindo.com/2021/02/react-website-template-free-download.html)
+
+Video demo [play here](https://youtu.be/ZtOKL9QDVTY)
