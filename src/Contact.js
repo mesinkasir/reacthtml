@@ -21,8 +21,8 @@ const Contact = () => (
     <div className="col-12 col-md-4 p-3">
       <div className="shadow rounded p-3 p-md-5">
         <p>Hubungi kami untuk informasi </p>
-        <p>WhatsApp : +6285646104747</p>
-        <p>Call Us : +6285331361404</p>
+        <p>WhatsApp : +62895339403223</p>
+        <p>Call Us : +62895339403223</p>
         <p>
           <a href="https://goo.gl/maps/V2Wxp2RcbF3cHxFC6" target="_blank">
             Visit Showroom here.
